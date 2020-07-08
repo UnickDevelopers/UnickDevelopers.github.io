@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+}
+
+#logo-cover {
+  position: absolute;
+  top: 33%;
+}
+
+#logo-cover img {
+  width: 35%;
+}
